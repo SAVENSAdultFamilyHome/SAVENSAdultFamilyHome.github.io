@@ -374,12 +374,12 @@ body.contact-bg{
   background-repeat:no-repeat;
   background-attachment:fixed;
 }
-body.home-bg{background-image:url('images/care-outdoor.jpg')}
-body.about-bg{background-image:url('images/care-wheelchair.jpg')}
-body.services-bg{background-image:url('images/care-team.jpg')}
-body.homecare-bg{background-image:url('images/care-wheelchair.jpg')}
-body.gallery-bg{background-image:url('images/care-outdoor.jpg')}
-body.contact-bg{background-image:url('images/care-team.jpg')}
+body.home-bg{background-image:url('care-outdoor.jpg')}
+body.about-bg{background-image:url('care-wheelchair.jpg')}
+body.services-bg{background-image:url('care-team.jpg')}
+body.homecare-bg{background-image:url('care-wheelchair.jpg')}
+body.gallery-bg{background-image:url('care-outdoor.jpg')}
+body.contact-bg{background-image:url('care-team.jpg')}
 
 /* Remove the large plain-white page bands and let the photo show through. */
 body.home-bg .section,
@@ -626,7 +626,7 @@ body .clean-image-section.why-section{
   padding:70px 5%;
   background:
     linear-gradient(rgba(5,37,46,.70),rgba(5,37,46,.70)),
-    url('images/bg-contact.jpg') center/cover no-repeat;
+    url('bg-contact.jpg') center/cover no-repeat;
 }
 .thank-you-card{
   width:min(720px,100%);
@@ -818,7 +818,7 @@ body .clean-image-section.why-section{
 /* Real SAVENS photo for Our Home page sections */
 body.homecare-bg,
 body.homecare-bg .clean-image-section{
-  background-image:url('images/living-room-main.jpg') !important;
+  background-image:url('living-room-main.jpg') !important;
   background-size:cover !important;
   background-position:center !important;
 }

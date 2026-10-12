@@ -6,7 +6,7 @@ Important:
 - The first two WhatsApp screenshots were design references only and are NOT used.
 - All website images are mapped to the actual SAVENS home photos.
 - The exterior photo containing the visible vehicle license plate is included only as:
-  images/exterior-original-NOT-FOR-LIVE-SITE.jpeg
+  exterior-original-NOT-FOR-LIVE-SITE.jpeg
   and is NOT referenced by any live page.
 - The homepage hero uses neighborhood.jpg until a cleaned exterior photo is available.
 
