@@ -1,0 +1,18 @@
+SAVENS NEW FREE WEBSITE ADDRESS
+
+Organization:
+SAVENSAdultFamilyHome
+
+Repository:
+SAVENSAdultFamilyHome.github.io
+
+Public website:
+https://savensadultfamilyhome.github.io/
+
+Changes already made:
+- old barakareshmy-cloud SAVENS links removed from the website code
+- contact form thank-you redirect updated to the new SAVENS URL
+- raw Gmail address hidden from visible link text; visitors see "Email SAVENS"
+- Gmail still receives form and email messages behind the scenes
+
+Upload these files directly into the repository root.
