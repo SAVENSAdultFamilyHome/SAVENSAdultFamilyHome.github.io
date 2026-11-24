@@ -1,0 +1,10 @@
+SAVENS FULL SITE AUDIT
+======================
+Remaining static issues: 0
+PASS: no broken local links/images, missing service anchors, duplicate IDs/attributes, stale old Gmail, or stale old public URL found.
+
+Corrected in this audit:
+- Added exact service anchors for all four Home service shortcuts.
+- Made Private Room and Shared Room Home preview photos open in the image viewer.
+- Removed stale old GitHub URL from documentation.
+- Added a clear Firebase unauthorized-domain message for the new SAVENS GitHub domain.

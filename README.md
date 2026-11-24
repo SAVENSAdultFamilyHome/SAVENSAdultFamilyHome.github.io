@@ -42,7 +42,7 @@ Authorized admins:
 Before testing on GitHub Pages, add this domain in:
 Firebase Console > Authentication > Settings > Authorized domains
 
-barakareshmy-cloud.github.io
+savensadultfamilyhome.github.io
 
 
 ## Contact form and Gmail

@@ -80,7 +80,7 @@ if(!configured){
           status.textContent="Access denied. This Google account is not authorized.";
         }
       }catch(err){
-        status.textContent="Sign-in failed: "+(err.message||"Unknown error");
+        status.textContent = err.code === "auth/unauthorized-domain" ? "Sign-in is blocked because this website domain is not yet authorized in Firebase. Add savensadultfamilyhome.github.io under Firebase Authentication > Settings > Authorized domains." : "Sign-in failed: "+(err.message||"Unknown error");
       }
     });
     signOut.addEventListener("click",()=>fbSignOut(auth));
