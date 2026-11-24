@@ -1,4 +1,4 @@
-# SAVENS Adult Family Home
+# SAVENS ADULT FAMILY HOME
 
 Complete multi-page GitHub Pages website.
 
@@ -20,7 +20,7 @@ Important:
 
 ## Admin authentication
 The admin page is prepared for Firebase Google Sign-In and restricts access to:
-josphinemaseri6@gmail.com
+savensadultfamilyhome@gmail.com
 - barakareshmy@gmail.com
 
 To activate secure admin login:
@@ -36,7 +36,7 @@ Important: Because GitHub Pages is static, secure login alone does not make page
 The Firebase web configuration is installed in firebase-config.js.
 
 Authorized admins:
-- josphinemaseri6@gmail.com
+- savensadultfamilyhome@gmail.com
 - barakareshmy@gmail.com
 
 Before testing on GitHub Pages, add this domain in:
@@ -47,12 +47,12 @@ barakareshmy-cloud.github.io
 
 ## Contact form and Gmail
 The Contact form sends website inquiries to:
-josphinemaseri6@gmail.com
+savensadultfamilyhome@gmail.com
 
 Direct email links also open the customer's email app with a SAVENS inquiry template.
 
 IMPORTANT FOR FIRST FORM SUBMISSION:
-FormSubmit may send an activation/confirmation email to josphinemaseri6@gmail.com the first time the form is used.
+FormSubmit may send an activation/confirmation email to savensadultfamilyhome@gmail.com the first time the form is used.
 Open that email and confirm/activate the form. After activation, future customer messages will be delivered normally.
 
 Customer experience:

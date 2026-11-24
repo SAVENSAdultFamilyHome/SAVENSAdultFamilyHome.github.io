@@ -1,0 +1,7 @@
+LATEST SAVENS CORRECTIONS
+
+1. Business name standardized as: SAVENS ADULT FAMILY HOME
+2. Email changed to: savensadultfamilyhome@gmail.com
+3. Phone retained as: 978-328-9455
+4. New free public link retained: https://savensadultfamilyhome.github.io/
+5. All other design, images, layouts, admin configuration, and functionality retained.
